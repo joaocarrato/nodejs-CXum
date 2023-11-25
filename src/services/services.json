@@ -1,20 +1,18 @@
-{
-  "services": [
-    {
-      "id": 1,
-      "service": "Corte"
-    },
-    {
-      "id": 2,
-      "service": "Barba"
-    },
-    {
-      "id": 3,
-      "service": "Combo"
-    },
-    {
-      "id": 4,
-      "service": "Sobrancelha"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "service": "Corte"
+  },
+  {
+    "id": 2,
+    "service": "Barba"
+  },
+  {
+    "id": 3,
+    "service": "Combo"
+  },
+  {
+    "id": 4,
+    "service": "Sobrancelha"
+  }
+]

@@ -1,16 +1,14 @@
-{
-  "unity": [
-    {
-      "id": 1,
-      "local": "Manejo"
-    },
-    {
-      "id": 2,
-      "local": "Shop. PátioMix"
-    },
-    {
-      "id": 3,
-      "local": "Shop .Resende"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "local": "Manejo"
+  },
+  {
+    "id": 2,
+    "local": "Shop. PátioMix"
+  },
+  {
+    "id": 3,
+    "local": "Shop .Resende"
+  }
+]

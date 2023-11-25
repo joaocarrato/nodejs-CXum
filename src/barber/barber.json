@@ -1,24 +1,22 @@
-{
-  "barber": [
-    {
-      "id": 1,
-      "name": "Joao Paulo",
-      "avatar": "https://as1.ftcdn.net/v2/jpg/02/49/71/96/1000_F_249719620_bC6f2aQuQO87TsZOWSwGas0C79OWAgJb.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Alex Dias",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/550.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Arrascaeta",
-      "avatar": "https://images.squarespace-cdn.com/content/v1/52f805e0e4b0a5a45c1ac699/1491848359400-6E1EL9768CRPAKEFLSHJ/Copyright+Tim+Collins+Photography-3484.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Pedro",
-      "avatar": "https://as2.ftcdn.net/v2/jpg/04/46/46/97/1000_F_446469794_cu1aL1v8CFcoPMZHwoUeEDjPJd1D6pwb.jpg"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Joao Paulo",
+    "avatar": "https://as1.ftcdn.net/v2/jpg/02/49/71/96/1000_F_249719620_bC6f2aQuQO87TsZOWSwGas0C79OWAgJb.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Alex Dias",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/550.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Arrascaeta",
+    "avatar": "https://images.squarespace-cdn.com/content/v1/52f805e0e4b0a5a45c1ac699/1491848359400-6E1EL9768CRPAKEFLSHJ/Copyright+Tim+Collins+Photography-3484.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pedro",
+    "avatar": "https://as2.ftcdn.net/v2/jpg/04/46/46/97/1000_F_446469794_cu1aL1v8CFcoPMZHwoUeEDjPJd1D6pwb.jpg"
+  }
+]
