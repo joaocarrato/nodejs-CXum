@@ -1,12 +1,13 @@
-const http = require('http');
-const PORT = 3000;
+const express = require("express");
+const app = express();
+const port = process.env.PORT || 3000;
 
-const server = http.createServer((req, res) => {
-  res.statusCode = 200;
-  res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello World!');
+const produtos = require("./src/unity/unity.json");
+
+app.get("/unity", (req, res) => {
+  return res.json(produtos);
 });
 
-server.listen(PORT, () => {
-  console.log(`Server running at http://localhost:${PORT}/`);
+app.listen(port, () => {
+  console.log("servidor esta rodando");
 });
